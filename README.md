@@ -1,4 +1,4 @@
-  =>  Template Name    : Industro - Industrial HTML Template
+  =>  Template Name    : SJD Services
 
   =>  Template Link    : https://htmlcodex.com/industrial-html-template
 
